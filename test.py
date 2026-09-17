@@ -1,1 +1,1 @@
-print("salom git!") 
+print("salom git! men python organayapman!") 
